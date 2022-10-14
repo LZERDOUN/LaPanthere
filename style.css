@@ -716,6 +716,18 @@ h3 {
     color: #333333!important;
 }
 
+.citation {
+    font-size: 20px;
+    line-height: 1.1em;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.citationAuteur {
+    font-size: 17px;
+    line-height: 1.1em;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
