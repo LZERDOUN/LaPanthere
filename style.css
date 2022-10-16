@@ -321,7 +321,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -646,11 +646,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgb(14, 13, 13)!important;
 }
 
 .container {
-    max-width: 1000px;
+    width: 100%;
 }
 
 .hero-bloc-text-sub {
@@ -668,12 +668,13 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 1200px;
     margin: auto auto auto auto;
+    border-radius: 40px;
 }
 
 h1 {
@@ -698,12 +699,12 @@ h1 {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 23px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -722,7 +723,7 @@ h3 {
 }
 
 .med-width-whitespace {
-    max-width: 800px;
+    max-width: 1500px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
 }
@@ -754,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgb(255 255 255 / 84%);
     padding: 40px 40px 40px 40px;
 }
 
@@ -768,20 +769,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #84181C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #8c201a!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #84181C;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #84181C;
     color: #FFFFFF!important;
 }
 
