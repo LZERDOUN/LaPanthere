@@ -825,7 +825,7 @@ h4 {
 }
 
 .partenaire {
-    color: #FFF;
+    color: #FFF!important;
 }
 
 @media (max-width: 1024px) {
