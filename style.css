@@ -704,8 +704,10 @@ h1 {
 
 .social {
     margin: auto auto auto auto;
-    height: 50px;
+    display: flex;
     width: 450px;
+    flex-direction: row;
+    height: 60px;
 }
 
 h2 {
